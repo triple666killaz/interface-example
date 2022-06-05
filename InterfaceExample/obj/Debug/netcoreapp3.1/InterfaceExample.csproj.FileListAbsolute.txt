@@ -1,0 +1,14 @@
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.exe
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.deps.json
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.json
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.runtimeconfig.dev.json
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\bin\Debug\netcoreapp3.1\InterfaceExample.pdb
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csproj.AssemblyReference.cache
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.AssemblyInfo.cs
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.dll
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.pdb
+C:\Users\EZEVIN\source\repos\InterfaceExample\InterfaceExample\obj\Debug\netcoreapp3.1\InterfaceExample.genruntimeconfig.cache

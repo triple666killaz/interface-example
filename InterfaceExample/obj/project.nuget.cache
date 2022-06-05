@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6qYx8oRpnOgyqljQilU0Zx95hXVzmdP/rs5RpNXYHHXoQby5CdOmXS2uHoTNur2lAgmdAcbXZ3YZ2ePYXne9DA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EZEVIN\\source\\repos\\InterfaceExample\\InterfaceExample\\InterfaceExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EZEVIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
